@@ -1,0 +1,30 @@
+body{
+    background: url(https://wallpaperaccess.com/full/1102078.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+#content{
+    text-align: center;
+    padding-top: 25%;
+    text-shadow: 2px 2px 1px gray;
+}
+h1{
+    font-size: 5em;
+    font-weight: 700;
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+    font-size: 3em;
+    font-weight: bolder;
+}
+html{
+    height:  100%;
+}
+.fas{
+    margin-left: 5px;
+}
+.new{
+    border-top: 2px solid black;
+}
